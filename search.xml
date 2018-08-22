@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Try Markdown]]></title>
+    <url>%2F2018%2F08%2F11%2Ftry%20Markdown%2F</url>
+    <content type="text"><![CDATA[一级标题二级标题三级标题四级标题无序列表 列表1 列表1.1 列表1.2 列表2 列表3 有序列表 列表1 列表1.1 列表1.2 列表2 列表3 引用 记录，成为更好的自己。——有道云笔记 粗体和斜体这是斜体 这是粗体 插入链接有道云笔记官网 插入图片 分割线这是第一段内容 这是第二段内容 代码高亮12345678910@requires_authorizationdef somefunc(param1='', param2=0): '''A docstring''' if param1 &gt; param2: #interesting print 'Greater' return (param2 - param1 + 1) or Noneclass SomeClass: pass&gt;&gt;&gt; message = '''interpreter... prompt''' To-do List 已完成项目1 已完成事项1 已完成事项2 代办事项1 代办事项2 流程图graph TD A[Christmas] -->B(Go shopping) B --> C{Let me think} C --> |One| D[Laptop] C --> |Two| E[iPhone] C --> |Three| F[Car] 序列图sequenceDiagram participant Alice participant Bob Alice->>John: Hello John, how are you? loop Healthcheck John->>John: Fight against hypochondria end Note right of John: Rational thoughts prevail... John-->>Alice: Great! John->>Bob: How about you? Bob-->>John: Jolly good! 甘特图gantt dateFormat YYY-MM-DD title 产品计划表 section 初期阶段 明确需求: 2016-03-01, 10d section 中期阶段 跟进开发: 2016-03-11, 15d section 后期阶段 走查测试: 2016-03-20, 9d git图gitGraph: options { "nodeSpacing": 150, "nodeRadius": 10 } end commit branch newbranch checkout newbranch commit commit checkout master commit commit merge newbranch 表格 Item Value Qty Computer 1600 USD 5 Phone 12 USD 12 Pipe 1 USD 234 Mathematical Formula $y=x^2$Inline math: $\dfrac{ \tfrac{1}{2}[1-(\tfrac{1}{2})^n] }{1-\tfrac{1}{2} } = s_n$ Math block:$$\oint_C x^3\, dx + 4y^2\, dy = \left( \frac{\left( 3-x \right) \times 2}{3-x} \right)$$$$\phi_n(\kappa) = \frac{1}{4\pi^2\kappa^2} \int_0^\infty \frac{\sin(\kappa R)}{\kappa R} \frac{\partial}{\partial R} \left[R^2\frac{\partial D_n(R)}{\partial R}\right]\, dR$$]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+  </entry>
+</search>
